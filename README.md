@@ -9,3 +9,6 @@ Press 0 to skip said image
 Press 1 to classify said image as cable
 
 Press 2 to classify said image as non-cable
+
+
+Run Detect_Kabel to see the cable detection
