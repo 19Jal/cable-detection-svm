@@ -8,8 +8,8 @@ from sklearn.svm import LinearSVC
 
 capture = cv2.VideoCapture('Video_Kabel.mp4')
 success,img = capture.read()
-d1 = 'Train/1/'     #Kabel
-d2 = 'Train/2/'     #Non-Kabel
+d1 = 'Train_3/1/'     #Kabel
+d2 = 'Train_3/2/'     #Non-Kabel
 n1 = 0
 n2 = 0
 success, frm = capture.read()
