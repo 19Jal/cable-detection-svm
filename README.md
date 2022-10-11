@@ -12,3 +12,5 @@ Press 2 to classify said image as non-cable
 
 
 Run Detect_Kabel to see the cable detection
+
+LBP_SVM_DetectKabel is a program that uses LBP (Local Binary Pattern) for Line Detection
