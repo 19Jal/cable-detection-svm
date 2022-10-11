@@ -1,6 +1,6 @@
 # cable-detection-svm
 
-Cable detection using SVM (Support Vector Machine) I did when attending Machine Vision class in my college
+Cable detection using SVM (Support Vector Machine) and line detection using Local Binary Pattern (LBP)
 
 Run Data_Collect to collect images of objects that are suspected to be cables. 
 
@@ -13,4 +13,4 @@ Press 2 to classify said image as non-cable
 
 Run Detect_Kabel to see the cable detection
 
-LBP_SVM_DetectKabel is a program that uses LBP (Local Binary Pattern) for Line Detection
+LBP_SVM_DetectKabel is a program that uses LBP for Line Detection
